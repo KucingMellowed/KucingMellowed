@@ -10,3 +10,5 @@ i play phighting wow cool game look at my K/D/A
 <br><img src=RobloxScreenShot20260228_143419880.png height=150>
 <img src=RobloxScreenShot20260401_220740685.png height=150>
 <img src=RobloxScreenShot20251106_223038482.png height=150>
+
+honestly, i don't know what to put here.
