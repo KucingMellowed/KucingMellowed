@@ -7,4 +7,6 @@ I use GitHub for Roblox's HttpService and other stuff. Though, it's not that muc
 Just experimenting and learning stuff.
 
 i play phighting wow cool game
-<br><img src=RobloxScreenShot20260228_143419880.png height=200>
+<br><img src=RobloxScreenShot20260228_143419880.png height=150>
+<img src=RobloxScreenShot20260228_143419880.png height=150>
+<img src=RobloxScreenShot20260228_143419880.png height=150>
